@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antony-gonzales-campos-9aa335191/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Ica%2C%20Perú-Remoto%20%7C%20Híbrido-1a1b26?style=for-the-badge" alt="Ubicación"/>
+  <a href="https://wa.me/51960927311?text=Hola%20Antony%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20interesa%20un%20proyecto"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <img src="https://img.shields.io/badge/🇵🇪%20Ica%2C%20Perú-Remoto%20%7C%20Híbrido-1a1b26?style=for-the-badge" alt="Ica, Perú"/>
   <img src="https://img.shields.io/badge/Disponible-para%20proyectos-9ece6a?style=for-the-badge" alt="Disponible"/>
 </p>
 
@@ -66,4 +67,4 @@
 -->
 
 ---
-<p align="center">💬 ¿Tienes un proyecto en mente? <a href="https://www.linkedin.com/in/antony-gonzales-campos-9aa335191/">Escríbeme por LinkedIn</a>.</p>
+<p align="center">💬 ¿Tienes un proyecto en mente? Escríbeme por <a href="https://wa.me/51960927311?text=Hola%20Antony%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20interesa%20un%20proyecto">WhatsApp</a> o <a href="https://www.linkedin.com/in/antony-gonzales-campos-9aa335191/">LinkedIn</a>.<br/>🇵🇪 Desde Ica, Perú — trabajo remoto para todo el país.</p>
