@@ -1,5 +1,8 @@
 <h1 align="center">Hola, soy Antony Gonzales Campos 👋</h1>
-<h3 align="center">Desarrollador Fullstack · Angular · Java Spring Boot · Microservicios</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Desarrollador+Fullstack;Angular+%C2%B7+Java+Spring+Boot+%C2%B7+Microservicios;Arquitectura+Hexagonal+%C2%B7+CI%2FCD+%C2%B7+Cloud" alt="Desarrollador Fullstack"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antony-gonzales-campos-9aa335191/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -53,12 +56,14 @@
 | 💳 Simulador y motor de reglas de crédito | Java 25 · Spring Boot · Hexagonal | 📋 Planificado |
 | 📶 Portal WiFi con QR diario | Quarkus · Docker | 📋 Planificado |
 
+<!-- Estadísticas: descomentar cuando haya más proyectos públicos
 ### 📊 Estadísticas
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=101-anthony-010&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=101-anthony-010&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes"/>
 </p>
+-->
 
 ---
 <p align="center">💬 ¿Tienes un proyecto en mente? <a href="https://www.linkedin.com/in/antony-gonzales-campos-9aa335191/">Escríbeme por LinkedIn</a>.</p>
